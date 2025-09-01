@@ -29,21 +29,6 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 
 ---
 
-## 🎨 Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&color=0e1e2d" />
-  <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white&color=3b3eff" />
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white&color=ff7eb9" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&color=1DA1F2" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0047AB" />
-  <img src="https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white&color=ff3366" />
-  <img src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&color=0e1e2d" />
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white&color=000000" />
-</p>
-
----
-
 ## 🛠 Tech Stack  
 
 **Cloud Platforms**  
