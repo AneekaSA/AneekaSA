@@ -3,6 +3,49 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="1050px" height="300px" />
 
+# 👋 Hi, I'm Aneeka  
+
+🚀 Engineer | 🌩️ Cloud Enthusiast | ✨ DevOps  
+
+---
+
+⚡ I’m a Cloud & DevOps engineer who loves automating *literally everything*.  
+From spinning up scalable AWS infra to containerizing apps with Docker & Kubernetes,  
+I’m all about building systems that are reliable, secure, and actually fun to work with.  
+
+---
+
+## 🔭 What I’m up to:
+- 🌩️ Playing around with **AWS** to design scalable cloud setups.  
+- 📦 Shipping apps in **Docker & Kubernetes** (because portability = peace of mind).  
+- 🚀 Automating deployments with **CI/CD pipelines** (zero manual headaches).  
+- 🏗️ Crafting infra with **Terraform** — Infra as Code all the way.  
+- 📊 Making sure everything’s observable with **Prometheus & Grafana**.  
+
+---
+
+## 🛠 Tech Stack  
+
+**Cloud Platforms**  
+☁️ AWS | ☁️ Azure (basic)  
+
+**Containers & Orchestration**  
+🐳 Docker | ☸️ Kubernetes  
+
+**DevOps & Automation**  
+⚡ GitHub Actions | 🔧 Jenkins | 🛠️ Terraform | 🐙 Git  
+
+**Monitoring & Logging**  
+📊 Prometheus | 📈 Grafana  
+
+**Operating Systems**  
+🐧 Linux | 🐚 Bash  
+
+---
+
+📬 Let’s connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](YOUR_PORTFOLIO_URL)  
 
 
 
