@@ -12,14 +12,36 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 
 ---
 
-## 🎯 What I Do  
-- ☁️ Build & scale with **AWS**  
-- 🐳 Containerize with **Docker & Kubernetes**  
-- 🚀 Automate with **CI/CD**  
-- 🏗️ IaC with **Terraform**  
-- 📊 Monitor with **Prometheus & Grafana**  
-- 🐧 Live inside **Linux**
-- 
+## ⚡️ What I Do
+- ☁️ Architect scalable & cost-efficient **AWS cloud solutions**  
+- 🛠️ Automate deployments with **Terraform** & **Ansible**  
+- 📦 Containerize & orchestrate apps using **Docker** & **Kubernetes**  
+- 📊 Set up **monitoring & observability** with **Prometheus + Grafana**  
+- 🚀 Build CI/CD pipelines that turn “works on my machine” into “works everywhere”  
+
+---
+
+## 🛠️ Projects I’ve Shipped
+- 🌐 **Deployed a Full Stack Application** → Multi-tier cloud environments with Terraform (EC2, VPC, RDS, S3, IAM).  
+- ☸️ **Deployed web applications on ** → Deployed microservices with auto-scaling, service mesh, and ingress controllers.  
+- 🐳 **Dockerized Web Apps** → Built & deployed containerized Python and Node apps, integrated with CI/CD pipelines.  
+- 📈 **Monitoring & Logging Stack** → Centralized logs with ELK, tracked metrics with Prometheus, visualized dashboards in Grafana.  
+
+---
+
+## 🎨 Tech Stack  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&color=0e1e2d" />
+  <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white&color=3b3eff" />
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white&color=ff7eb9" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white&color=1DA1F2" />
+  <img src="https://img.shields.io/badge/Kubernetes-%23326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&color=0047AB" />
+  <img src="https://img.shields.io/badge/Prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=white&color=ff3366" />
+  <img src="https://img.shields.io/badge/Grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=white&color=0e1e2d" />
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white&color=000000" />
+</p>
+
 ---
 
 ## 🛠 Tech Stack  
