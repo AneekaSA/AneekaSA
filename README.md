@@ -48,12 +48,10 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 ---
 ## 📊 GitHub Stats  
 
-### 📊 GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AneekaSA&theme=tokyonight)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AneekaSA&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AneekaSA&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AneekaSA&theme=tokyonight)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AneekaSA&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AneekaSA&theme=tokyonight&utcOffset=5.5)
