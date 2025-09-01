@@ -50,16 +50,14 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical&card_width=400" alt="Aneeka's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneekaSA&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical&card_width=450&hide_border=false" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneekaSA&layout=compact&theme=tokyonight&card_width=350&hide_border=false" height="180px" />
 
 </div>
 
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/AneekaSA?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AneekaSA&theme=dracula)
