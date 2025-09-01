@@ -48,7 +48,14 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 ---
 ## 📊 GitHub Stats  
 
-![Aneeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AneekaSA&layout=compact&theme=tokyonight)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical&card_width=400" alt="Aneeka's GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneekaSA&layout=compact&theme=tokyonight&card_width=400" alt="Top Langs" />
+
+</div>
+
 
 
 
