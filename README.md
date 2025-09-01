@@ -8,7 +8,7 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="1050px" height="150px" />
 
-I’m a Cloud & DevOps engineer who loves automating *literally everything*. From spinning up scalable AWS infra to containerizing apps with Docker & Kubernetes, I’m all about building systems that are reliable, secure, and actually fun to work with.  
+I’m a Cloud & DevOps engineer who loves automating *literally everything*. From spinning up scalable AWS infra to containerizing apps with Docker & Kubernetes, I’m all about building systems that are reliable, secure, and actually fun to work with. Whether it’s spinning up scalable and cost-efficient infrastructure on AWS, containerizing and orchestrating applications with Docker and Kubernetes, or streamlining CI/CD pipelines, I’m passionate about building systems that are not only reliable and secure but also easy to manage and fun to work with. My focus is always on simplifying complexity, ensuring scalability, and making sure technology empowers teams to deliver faster and smarter.
 
 ---
 
