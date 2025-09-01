@@ -1,10 +1,10 @@
+
+
+
+
 # Heyy, I'm Aneeka! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-🚀 Engineer | 💻 Cloud Enthusiast | ✨ DevOps 
 
-
-# 👋 Hi, I'm Aneeka  
-
-🚀 Engineer | 🌩️ Cloud Enthusiast | ✨ DevOps  
+🚀 Aspiring DevOps Engineer | 🌩️ Cloud Enthusiast  
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="1050px" height="150px" />
 
 
