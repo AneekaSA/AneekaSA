@@ -46,6 +46,7 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
+## 📊 GitHub Stats  
 
 ![Aneeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical)
 
