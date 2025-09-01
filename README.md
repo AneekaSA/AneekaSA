@@ -12,45 +12,47 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 
 ---
 
-## 🔭 What I’m up to:
-- 🌩️ Playing around with **AWS** to design scalable cloud setups.  
-- 📦 Shipping apps in **Docker & Kubernetes** (because portability = peace of mind).  
-- 🚀 Automating deployments with **CI/CD pipelines** (zero manual headaches).  
-- 🏗️ Crafting infra with **Terraform** — Infra as Code all the way.  
-- 📊 Making sure everything’s observable with **Prometheus & Grafana**.  
-
+## 🎯 What I Do  
+- ☁️ Build & scale with **AWS**  
+- 🐳 Containerize with **Docker & Kubernetes**  
+- 🚀 Automate with **CI/CD**  
+- 🏗️ IaC with **Terraform**  
+- 📊 Monitor with **Prometheus & Grafana**  
+- 🐧 Live inside **Linux**
+- 
 ---
 
 ## 🛠 Tech Stack  
 
 **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-1D1D1D?style=for-the-badge&logo=amazon-aws&logoColor=FFB6C1)
 
 **Containers & Orchestration**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-87CEFA?style=for-the-badge&logo=docker&logoColor=1D1D1D)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00008B?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)
 
 **DevOps & Automation**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1D1D1D?style=for-the-badge&logo=github-actions&logoColor=87CEFA)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFB6C1?style=for-the-badge&logo=jenkins&logoColor=1D1D1D)
+![Terraform](https://img.shields.io/badge/Terraform-00008B?style=for-the-badge&logo=terraform&logoColor=FFB6C1)
+![Git](https://img.shields.io/badge/Git-1D1D1D?style=for-the-badge&logo=git&logoColor=FFB6C1)
 
 **Monitoring & Logging**  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-FFB6C1?style=for-the-badge&logo=prometheus&logoColor=1D1D1D)
+![Grafana](https://img.shields.io/badge/Grafana-00008B?style=for-the-badge&logo=grafana&logoColor=87CEFA)
 
 **Operating Systems**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1D1D1D?style=for-the-badge&logo=linux&logoColor=FFB6C1)
+![Bash](https://img.shields.io/badge/Bash-87CEFA?style=for-the-badge&logo=gnubash&logoColor=1D1D1D)
 
 ---
 
-📬 Let’s connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](YOUR_PORTFOLIO_URL)  
+## 📊 GitHub Stats  
+![Aneeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
 
 
+---
 
 ![Aneeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical)
 
