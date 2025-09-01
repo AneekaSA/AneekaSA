@@ -12,16 +12,16 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 
 ---
 
-## ⚡️ What I 
+## ⚡️ What I do
 
 - ☁️ Architect scalable & cost-efficient **AWS cloud solutions**
--  
+  
 - 🛠️ Automate deployments with **Terraform** & **Ansible**
-- 
+  
 - 📦 Containerize & orchestrate apps using **Docker** & **Kubernetes**
-- 
+ 
 - 📊 Set up **monitoring & observability** with **Prometheus + Grafana**
-- 
+ 
 - 🚀 Build CI/CD pipelines that turn “works on my machine” into “works everywhere”  
 
 ---
