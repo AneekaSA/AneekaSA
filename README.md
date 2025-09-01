@@ -1,7 +1,10 @@
 # Hi there 👋, I'm Aneeka!
-🚀 Aspiring DevOps Engineer | 💻 Cloud Enthusiast | ✨ Open Source Contributor
+🚀 Engineer | 💻 Cloud Enthusiast | ✨ DevOps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+![Profile Banner](https://i.imgur.com/xyz123.png)
+
+
+
 
 ![Aneeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=AneekaSA&show_icons=true&theme=radical)
 
