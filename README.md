@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Aneeka!
 🚀 Engineer | 💻 Cloud Enthusiast | ✨ DevOps <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![Profile Banner]([https://i.imgur.com/xyz123.png](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif))
+<img src="[https://i.imgur.com/xyz123.png" width="400px](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif)" />
 
 
 
