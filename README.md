@@ -4,7 +4,7 @@
 
 # Heyy, I'm Aneeka! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🚀 Software Engineer
+🚀 Software Engineer on a learning journey
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="1050px" height="150px" />
 
@@ -13,19 +13,29 @@ I’m a Full Stack Engineer passionate about building scalable web applications,
 Whether it’s developing MERN stack applications, designing REST APIs, automating CI/CD pipelines, or managing scalable cloud infrastructure, I love creating systems that are reliable, efficient, secure, and actually fun to work with. ✨
 
 
+
 ---
 
 ## ⚡️ What I do
 
-- ☁️ Architect scalable & cost-efficient **AWS cloud solutions**
-  
-- 🛠️ Automate deployments with **Terraform** & **Ansible**
-  
-- 📦 Containerize & orchestrate apps using **Docker** & **Kubernetes**
- 
-- 📊 Set up **monitoring & observability** with **Prometheus + Grafana**
- 
-- 🚀 Build CI/CD pipelines that turn “works on my machine” into “works everywhere”  
+* 🌐 Build full stack web applications using the **MERN Stack**
+
+* 🎨 Create responsive & interactive UIs with **React, JavaScript, HTML & CSS**
+
+* ⚙️ Develop scalable backend APIs using **Node.js & Express.js**
+
+* 🗄️ Work with databases like **MongoDB** & **MySQL**
+
+* ☁️ Deploy scalable applications & infrastructure on **AWS**
+
+* 🛠️ Automate deployments using **Terraform**, **GitHub Actions** & **Jenkins**
+
+* 📦 Containerize & orchestrate applications using **Docker** & **Kubernetes**
+
+* 📊 Set up **monitoring & observability** with **Prometheus + Grafana**
+
+* 🚀 Build CI/CD pipelines that turn “works on my machine” into “works everywhere”
+
 
 ---
 
