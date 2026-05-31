@@ -28,10 +28,18 @@ I’m a Cloud & DevOps engineer who loves automating *literally everything*. Fro
 
 ## 🛠️ Projects I’ve Shipped
 
-- 🌐 **Deployed a Full Stack Application** → Deployed Multi-tier cloud environments with Terraform (EC2, VPC, RDS, S3, IAM).  
-- ☸️ **Deployed web applications** → Deployed microservices with auto-scaling, service mesh, and ingress controllers.  
-- 🐳 **Dockerized Web Apps** → Built & deployed containerized Python and Node apps, integrated with CI/CD pipelines.  
-- 📈 **Monitoring & Logging Stack** → Centralized logs with ELK, tracked metrics with Prometheus, visualized dashboards in Grafana.  
+* 🌐 **Full Stack MERN Applications** → Built responsive MERN stack applications with authentication, REST APIs, dashboards, and MongoDB integration.
+
+* ☁️ **Cloud Infrastructure Deployments** → Deployed multi-tier AWS environments using Terraform (EC2, VPC, RDS, S3, IAM).
+
+* ☸️ **Kubernetes Deployments** → Deployed containerized microservices with auto-scaling, ingress controllers, and load balancing on Kubernetes.
+
+* 🐳 **Dockerized Web Applications** → Built & deployed containerized Node.js and Python applications integrated with CI/CD pipelines.
+
+* 🚀 **CI/CD Automation** → Automated build, testing, and deployment workflows using Jenkins, GitHub Actions, and AWS CodePipeline.
+
+* 📈 **Monitoring & Logging Stack** → Centralized logs with ELK, tracked metrics with Prometheus, and visualized dashboards in Grafana.
+
 
 ---
 
