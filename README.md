@@ -8,7 +8,10 @@
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHNpZnpiempxdzlsYjE1YzJzZzZ3a2F1MGFuZ2xuZWc4cXl1MnpidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" width="1050px" height="150px" />
 
-I’m a Cloud & DevOps engineer who loves automating *literally everything*. From spinning up scalable AWS infra to containerizing apps with Docker & Kubernetes, I’m all about building systems that are reliable, secure, and actually fun to work with. Whether it’s spinning up scalable and cost-efficient infrastructure on AWS, containerizing and orchestrating applications with Docker and Kubernetes, or streamlining CI/CD pipelines, I’m passionate about building systems that are not only reliable and secure but also easy to manage and fun to work with. ✨
+I’m a Full Stack Engineer passionate about building scalable web applications, cloud-native systems, and smooth user experiences. From crafting responsive frontend interfaces with React to developing secure backend APIs with Node.js and deploying applications on AWS using Docker & Kubernetes, I enjoy building products end-to-end.
+
+Whether it’s developing MERN stack applications, designing REST APIs, automating CI/CD pipelines, or managing scalable cloud infrastructure, I love creating systems that are reliable, efficient, secure, and actually fun to work with. ✨
+
 
 ---
 
